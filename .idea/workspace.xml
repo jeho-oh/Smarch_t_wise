@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1c7ea0c6-af21-4216-90e8-32e724f78ae5" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/Kclause_Smarch/Smarch/smarch_mp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Financial_2018_05_09_1_5.ratio" beforeDir="false" afterPath="$PROJECT_DIR$/Data/Financial_2018_05_09_1_5.ratio" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Financial_2018_05_09_1.ratio" beforeDir="false" afterPath="$PROJECT_DIR$/Data/Financial_2018_05_09_1.ratio" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Kclause_Smarch" beforeDir="false" afterPath="$PROJECT_DIR$/Kclause_Smarch" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gmon.out" beforeDir="false" afterPath="$PROJECT_DIR$/gmon.out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ratio.py" beforeDir="false" afterPath="$PROJECT_DIR$/ratio.py" afterDir="false" />
@@ -33,8 +33,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/ratio.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="520">
-                  <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+                <state relative-caret-position="474">
+                  <caret line="50" selection-start-line="50" selection-end-line="50" />
                 </state>
               </provider>
             </entry>
@@ -51,8 +51,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Kclause_Smarch/Smarch/smarch_mp.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="652">
-                  <caret line="293" column="23" lean-forward="true" selection-start-line="293" selection-start-column="23" selection-end-line="293" selection-end-column="23" />
+                <state relative-caret-position="3692">
+                  <caret line="293" column="23" selection-start-line="293" selection-start-column="23" selection-end-line="293" selection-end-column="23" />
                   <folding>
                     <element signature="e#84#97#0" expanded="true" />
                   </folding>
@@ -127,7 +127,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -150,6 +149,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -320,13 +320,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1956" y="-13" width="1885" height="1094" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26608977" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26825312" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3306773" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3306773" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3985873" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -395,6 +396,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Kclause_Smarch/Smarch/smarch_mp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3692">
+          <caret line="293" column="23" selection-start-line="293" selection-start-column="23" selection-end-line="293" selection-end-column="23" />
+          <folding>
+            <element signature="e#84#97#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="468">
@@ -405,20 +416,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Kclause_Smarch/Smarch/smarch_mp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="652">
-          <caret line="293" column="23" lean-forward="true" selection-start-line="293" selection-start-column="23" selection-end-line="293" selection-end-column="23" />
-          <folding>
-            <element signature="e#84#97#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ratio.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        <state relative-caret-position="474">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
         </state>
       </provider>
     </entry>

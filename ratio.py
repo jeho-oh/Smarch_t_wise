@@ -23,7 +23,8 @@ def check_combratio(dimacs_, combfile_, n_, outfile_):
 
             p = 1 - (1 - r)**n_
 
-            out.write(str(p) + "\n")
+            #out.write(str(p) + "\n")
+            out.write(str(r) + "\n")
 
             i += 1
             print(str(i) + ": " + str(r))

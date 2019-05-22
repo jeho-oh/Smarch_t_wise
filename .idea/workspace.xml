@@ -3,17 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="1c7ea0c6-af21-4216-90e8-32e724f78ae5" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/Kclause_Smarch/Smarch/smarch_mp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Samples/Financial_2018_05_09_10.samples" beforeDir="false" afterPath="$PROJECT_DIR$/Data/Samples/Financial_2018_05_09_10.samples" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Samples/Financial_2018_05_09_20.samples" beforeDir="false" afterPath="$PROJECT_DIR$/Data/Samples/Financial_2018_05_09_20.samples" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Samples/Financial_2018_05_09_30.samples" beforeDir="false" afterPath="$PROJECT_DIR$/Data/Samples/Financial_2018_05_09_30.samples" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Samples/Financial_2018_05_09_5.samples" beforeDir="false" afterPath="$PROJECT_DIR$/Data/Samples/Financial_2018_05_09_5.samples" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Samples/Financial_2018_05_09_50.samples" beforeDir="false" afterPath="$PROJECT_DIR$/Data/Samples/Financial_2018_05_09_50.samples" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Samples/cubes.smarch" beforeDir="false" afterPath="$PROJECT_DIR$/Data/Samples/cubes.smarch" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Samples/dimacs.smarch" beforeDir="false" afterPath="$PROJECT_DIR$/Data/Samples/dimacs.smarch" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/count.dimacs" beforeDir="false" afterPath="$PROJECT_DIR$/Data/count.dimacs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Financial_2018_05_09_1_5.ratio" beforeDir="false" afterPath="$PROJECT_DIR$/Data/Financial_2018_05_09_1_5.ratio" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Kclause_Smarch" beforeDir="false" afterPath="$PROJECT_DIR$/Kclause_Smarch" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/combinations.py" beforeDir="false" afterPath="$PROJECT_DIR$/combinations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage.py" beforeDir="false" afterPath="$PROJECT_DIR$/coverage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmon.out" beforeDir="false" afterPath="$PROJECT_DIR$/gmon.out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ratio.py" beforeDir="false" afterPath="$PROJECT_DIR$/ratio.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,11 +30,11 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/ratio.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <caret line="2" column="46" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
+                <state relative-caret-position="520">
+                  <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
                 </state>
               </provider>
             </entry>
@@ -56,11 +48,11 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Kclause_Smarch/Smarch/smarch_mp.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="626">
-                  <caret line="285" column="28" selection-start-line="285" selection-start-column="26" selection-end-line="285" selection-end-column="28" />
+                <state relative-caret-position="652">
+                  <caret line="293" column="23" lean-forward="true" selection-start-line="293" selection-start-column="23" selection-end-line="293" selection-end-column="23" />
                   <folding>
                     <element signature="e#84#97#0" expanded="true" />
                   </folding>
@@ -96,7 +88,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Kclause_Smarch" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -106,9 +98,9 @@
         <option value="$PROJECT_DIR$/twisecheck.py" />
         <option value="$PROJECT_DIR$/combinations.py" />
         <option value="$PROJECT_DIR$/coverage.py" />
-        <option value="$PROJECT_DIR$/ratio.py" />
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/Kclause_Smarch/Smarch/smarch_mp.py" />
+        <option value="$PROJECT_DIR$/ratio.py" />
       </list>
     </option>
   </component>
@@ -161,6 +153,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Kclause_Smarch/Smarch" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
@@ -181,7 +174,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test">
+  <component name="RunManager" selected="Python.ratio">
     <configuration name="coverage" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="t-wise" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -289,8 +282,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test" />
         <item itemvalue="Python.ratio" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.coverage" />
         <item itemvalue="Python.twisecheck" />
         <item itemvalue="Python.smarch" />
@@ -328,7 +321,7 @@
   <component name="ToolWindowManager">
     <frame x="1956" y="-13" width="1885" height="1094" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26392645" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26608977" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -395,13 +388,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ratio.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="2" column="46" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/coverage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="520">
@@ -421,11 +407,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Kclause_Smarch/Smarch/smarch_mp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="626">
-          <caret line="285" column="28" selection-start-line="285" selection-start-column="26" selection-end-line="285" selection-end-column="28" />
+        <state relative-caret-position="652">
+          <caret line="293" column="23" lean-forward="true" selection-start-line="293" selection-start-column="23" selection-end-line="293" selection-end-column="23" />
           <folding>
             <element signature="e#84#97#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ratio.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
         </state>
       </provider>
     </entry>

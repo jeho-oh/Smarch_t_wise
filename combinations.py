@@ -22,7 +22,7 @@ def get_combinations(dimacs_, t_, outfile_):
     f = open(outfile_, "w")
 
     # filter out combinations that are invalid
-    i = 0
+    j = 0
 
     for c in raw:
         assigned = list(map(int, c))
@@ -36,11 +36,12 @@ def get_combinations(dimacs_, t_, outfile_):
                 if i < len(c)-1:
                     f.write(",")
             f.write("\n")
+            j += 1
             #comb.append(c)
         #else:
             #print(c)
-        i += 1
-        print(str(i))
+
+        print(str(j))
 
     f.close()
 
@@ -48,7 +49,7 @@ def get_combinations(dimacs_, t_, outfile_):
 
 
 t = 1
-target = "Financial_2018_05_09"
+target = "LLVM"#"Financial_2018_05_09"
 
 srcdir = os.path.dirname(os.path.abspath(__file__))
 dimacs = srcdir + "/Data/" + target + ".dimacs"

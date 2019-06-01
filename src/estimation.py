@@ -25,7 +25,8 @@ t = 1
 target = "Financial_2018_05_09"
 
 srcdir = os.path.dirname(os.path.abspath(__file__))
-ratiofile = srcdir + "/Data/" + target + "_" + str(t) + ".ratio"
+rootdir = os.path.abspath(os.path.join(srcdir, os.pardir))
+ratiofile = rootdir + "/" + target + "/" + target + "_" + str(t) + ".ratio"
 
 nlist = {5, 10, 20, 30, 40, 50, 100, 200, 300, 400, 500, 1000, 1518}
 

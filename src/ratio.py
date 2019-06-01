@@ -33,9 +33,11 @@ t = 1
 target = "Financial_2018_05_09"
 
 srcdir = os.path.dirname(os.path.abspath(__file__))
-dimacs = srcdir + "/Data/" + target + ".dimacs"
-combfile = srcdir + "/Data/" + target + "_" + str(t) + ".comb"
-ratiofile = srcdir + "/Data/" + target + "_" + str(t) + ".ratio"
+rootdir = os.path.abspath(os.path.join(srcdir, os.pardir))
+
+dimacs = rootdir + "/" + target + "/" + target + ".dimacs"
+combfile = rootdir + "/" + target + "/" + target + "_" + str(t) + ".comb"
+ratiofile = rootdir + "/" + target + "/" + target + "_" + str(t) + ".ratio"
 
 
 check_combratio(dimacs, combfile, ratiofile)

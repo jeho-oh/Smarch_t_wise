@@ -52,8 +52,10 @@ t = 1
 target = "Financial_2018_05_09"
 
 srcdir = os.path.dirname(os.path.abspath(__file__))
-dimacs = srcdir + "/Data/" + target + ".dimacs"
-combfile = srcdir + "/Data/" + target + "_" + str(t) + ".comb"
+rootdir = os.path.abspath(os.path.join(srcdir, os.pardir))
+
+dimacs = rootdir + "/" + target + "/" + target + ".dimacs"
+combfile = rootdir + "/" + target + "/" + target + "_" + str(t) + ".comb"
 
 get_combinations(dimacs, t, combfile)
 

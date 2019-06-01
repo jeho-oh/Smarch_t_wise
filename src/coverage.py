@@ -31,12 +31,13 @@ t = 1
 target = "Financial_2018_05_09"
 
 srcdir = os.path.dirname(os.path.abspath(__file__))
-dimacs = srcdir + "/Data/" + target + ".dimacs"
-combfile = srcdir + "/Data/" + target + "_" + str(t) + ".comb"
+rootdir = os.path.abspath(os.path.join(srcdir, os.pardir))
+dimacs = rootdir + "/" + target + "/" + target + ".dimacs"
+combfile = rootdir + "/" + target + "/" + target + "_" + str(t) + ".comb"
 
 nlist = {5, 10, 20, 30, 40, 50, 100, 200, 300, 400, 500, 1000, 1518}
 
 for i in nlist:
-    samplefile = srcdir + "/Data/Samples/Time/" + target + "_" + str(i) + ".samples"
+    samplefile = rootdir + "/" + target + "/Samples/Time/" + target + "_" + str(i) + ".samples"
     print(str(i), end=",")
     check_coverage(samplefile, combfile)

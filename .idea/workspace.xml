@@ -2,65 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c7ea0c6-af21-4216-90e8-32e724f78ae5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/estimation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Automotive02_V4.dimacs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Financial_2018_05_09_1_1000.ratio" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Financial_2018_05_09_1_5.ratio" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Financial_2018_05_09_2_former.ratio" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Financial_2018_05_09_2_latter.comb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/LLVM.dimacs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/LLVM_1.comb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/LLVM_1.ratio" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Samples/Financial_2018_05_09_10.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Samples/Financial_2018_05_09_10.samples" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Samples/Financial_2018_05_09_100.samples" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Samples/Financial_2018_05_09_1000.samples" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Samples/Financial_2018_05_09_1518.samples" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Samples/Financial_2018_05_09_20.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Samples/Financial_2018_05_09_20.samples" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Samples/Financial_2018_05_09_200.samples" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Samples/Financial_2018_05_09_3.samples" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Samples/Financial_2018_05_09_30.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Samples/Financial_2018_05_09_30.samples" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Samples/Financial_2018_05_09_300.samples" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Samples/Financial_2018_05_09_40.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Samples/Financial_2018_05_09_40.samples" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Samples/Financial_2018_05_09_400.samples" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Samples/Financial_2018_05_09_5.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Samples/Financial_2018_05_09_5.samples" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Samples/Financial_2018_05_09_50.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Samples/Financial_2018_05_09_50.samples" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Samples/Financial_2018_05_09_500.samples" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Samples/Financial_2018_05_09_60.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Samples/Financial_2018_05_09_60.samples" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Samples/Financial_2018_05_09_70.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Samples/Financial_2018_05_09_70.samples" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Samples/LLVM_10.samples" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Samples/LLVM_100.samples" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Samples/LLVM_1000.samples" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Samples/LLVM_2.samples" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Samples/LLVM_20.samples" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Samples/LLVM_200.samples" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Samples/LLVM_3.samples" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Samples/LLVM_30.samples" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Samples/LLVM_300.samples" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Samples/LLVM_40.samples" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Samples/LLVM_400.samples" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Samples/LLVM_5.samples" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Samples/LLVM_50.samples" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Samples/LLVM_500.samples" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Samples/LLVM_60.samples" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Samples/cubes.smarch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Samples/dimacs.smarch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/count.dimacs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/cubes.smarch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/dimacs.smarch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/combinations.py" beforeDir="false" afterPath="$PROJECT_DIR$/combinations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage.py" beforeDir="false" afterPath="$PROJECT_DIR$/coverage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmon.out" beforeDir="false" afterPath="$PROJECT_DIR$/gmon.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ratio.py" beforeDir="false" afterPath="$PROJECT_DIR$/ratio.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kclause_Smarch" beforeDir="false" afterPath="$PROJECT_DIR$/Kclause_Smarch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kclause_Smarch/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Kclause_Smarch/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/combinations.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/combinations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coverage.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/coverage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estimation.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/estimation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/memory.sh" beforeDir="false" afterPath="$PROJECT_DIR$/src/memory.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratio.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ratio.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,10 +24,10 @@
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="225">
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/combinations.py">
+            <entry file="file://$PROJECT_DIR$/src/combinations.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="133">
-                  <caret line="27" column="36" lean-forward="true" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+                <state relative-caret-position="499">
+                  <caret line="57" column="40" selection-start-line="57" selection-start-column="40" selection-end-line="57" selection-end-column="40" />
                   <folding>
                     <element signature="e#0#34#0" expanded="true" />
                   </folding>
@@ -85,10 +36,19 @@
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/ratio.py">
+            <entry file="file://$PROJECT_DIR$/.gitignore">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="377">
-                  <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+                <state relative-caret-position="569">
+                  <caret line="52" selection-start-line="52" selection-end-line="52" selection-end-column="8" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/ratio.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="507">
+                  <caret line="39" column="41" selection-start-line="39" selection-start-column="41" selection-end-line="39" selection-end-column="41" />
                   <folding>
                     <element signature="e#0#9#0" expanded="true" />
                   </folding>
@@ -96,20 +56,20 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/coverage.py">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/coverage.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="377">
-                  <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+                <state relative-caret-position="403">
+                  <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Kclause_Smarch/Smarch/smarch.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-2233">
-                  <caret line="290" lean-forward="true" selection-start-line="290" selection-end-line="290" />
+                <state relative-caret-position="523">
+                  <caret line="499" column="28" lean-forward="true" selection-start-line="499" selection-start-column="28" selection-end-line="499" selection-end-column="28" />
                   <folding>
                     <element signature="e#84#97#0" expanded="true" />
                   </folding>
@@ -121,28 +81,16 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="225">
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/test.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="455">
-                  <caret line="35" column="28" lean-forward="true" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
-                  <folding>
-                    <element signature="e#39#61#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/estimation.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="416">
-                  <caret line="32" column="39" lean-forward="true" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
-                </state>
-              </provider>
-            </entry>
-          </file>
           <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/estimation.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="429">
+                  <caret line="33" column="39" lean-forward="true" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Kclause_Smarch/Smarch/smarch_mp.py">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="432">
@@ -166,7 +114,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Kclause_Smarch" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -176,10 +124,16 @@
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/Kclause_Smarch/Smarch/smarch_mp.py" />
         <option value="$PROJECT_DIR$/combinations.py" />
-        <option value="$PROJECT_DIR$/estimation.py" />
         <option value="$PROJECT_DIR$/coverage.py" />
         <option value="$PROJECT_DIR$/ratio.py" />
         <option value="$PROJECT_DIR$/Kclause_Smarch/Smarch/smarch.py" />
+        <option value="$PROJECT_DIR$/estimation.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/Kclause_Smarch/.gitignore" />
+        <option value="$PROJECT_DIR$/src/combinations.py" />
+        <option value="$PROJECT_DIR$/src/estimation.py" />
+        <option value="$PROJECT_DIR$/src/ratio.py" />
+        <option value="$PROJECT_DIR$/src/coverage.py" />
       </list>
     </option>
   </component>
@@ -210,8 +164,7 @@
             <path>
               <item name="t-wise" type="b2602c69:ProjectViewProjectNode" />
               <item name="t-wise" type="462c0819:PsiDirectoryNode" />
-              <item name="Kclause_Smarch" type="462c0819:PsiDirectoryNode" />
-              <item name="Smarch" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -221,11 +174,17 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Kclause_Smarch/Smarch" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Kclause_Smarch/src" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Kclause_Smarch/Smarch" />
     </key>
   </component>
@@ -241,7 +200,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.coverage">
+  <component name="RunManager" selected="Python.ratio">
     <configuration name="coverage" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="t-wise" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -254,7 +213,49 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/coverage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="estimation (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="t-wise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/estimation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="estimation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="t-wise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kclause_Smarch/src/estimation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -275,28 +276,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ratio.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="smarch" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="t-wise" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Kclause_Smarch/Smarch" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kclause_Smarch/Smarch/smarch.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ratio.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -326,34 +306,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="twisecheck" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="t-wise" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/combinations.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.coverage" />
         <item itemvalue="Python.ratio" />
+        <item itemvalue="Python.estimation (1)" />
+        <item itemvalue="Python.estimation" />
+        <item itemvalue="Python.coverage" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.twisecheck" />
-        <item itemvalue="Python.smarch" />
       </list>
     </recent_temporary>
   </component>
@@ -389,12 +348,12 @@
     <frame x="44" y="-3" width="1876" height="1083" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09120521" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09120521" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33166832" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.32967034" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33166832" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3976024" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -446,40 +405,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/coverage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ratio.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/combinations.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="27" column="36" lean-forward="true" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
-          <folding>
-            <element signature="e#0#34#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/estimation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="32" column="39" lean-forward="true" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Kclause_Smarch/Smarch/smarch_mp.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
@@ -492,11 +417,66 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Kclause_Smarch/Smarch/smarch.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2233">
-          <caret line="290" lean-forward="true" selection-start-line="290" selection-end-line="290" />
+        <state relative-caret-position="523">
+          <caret line="499" column="28" lean-forward="true" selection-start-line="499" selection-start-column="28" selection-end-line="499" selection-end-column="28" />
           <folding>
             <element signature="e#84#97#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="569">
+          <caret line="52" selection-start-line="52" selection-end-line="52" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kclause_Smarch/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/time.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/combinations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="57" column="40" selection-start-line="57" selection-start-column="40" selection-end-line="57" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/estimation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="33" column="39" lean-forward="true" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ratio.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="39" column="41" selection-start-line="39" selection-start-column="41" selection-end-line="39" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coverage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>

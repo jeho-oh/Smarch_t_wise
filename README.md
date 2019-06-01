@@ -12,7 +12,7 @@ We evaluate t-wise coverage with one of the provided gigantic feature models usi
 
 This repository has following structure.
 
-* Financial_2018_05_09: Data and results for Financial01 product line, version 2018_05_09
+* Financial_2018_05_09: Data and results for FinancialServices01 product line, version 2018_05_09
 * Kclause_Smarch: Repository for the Smarch sampling tool
 * src: Source code used for evaluation
 

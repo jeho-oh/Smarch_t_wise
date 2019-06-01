@@ -1,0 +1,49 @@
+Input file:  /home/jeho-lab/git/t-wise/Data/Financial_2018_05_09.dimacs
+Number of samples:  20
+Output directory: /home/jeho-lab/git/t-wise/Data/Samples/Memory
+Counting - Total configurations: 97451212554676
+Sampling 0 with 96943197878661 - sampling time: 5.082788944244385
+Sampling 1 with 66430623746781 - sampling time: 7.906409502029419
+Sampling 2 with 47425780569190 - sampling time: 6.077861309051514
+Sampling 3 with 38117651027505 - sampling time: 9.416036128997803
+Sampling 4 with 31608151197832 - sampling time: 7.864960193634033
+Sampling 5 with 42245408594793 - sampling time: 7.022387981414795
+Sampling 6 with 46864002482042 - sampling time: 7.383118152618408
+Sampling 7 with 86440834048524 - sampling time: 6.821284532546997
+Sampling 8 with 2922212922544 - sampling time: 7.088581323623657
+Sampling 9 with 37260008389435 - sampling time: 7.0432164669036865
+Sampling 10 with 51780938849553 - sampling time: 6.194274663925171
+Sampling 11 with 60586026569502 - sampling time: 7.239447593688965
+Sampling 12 with 14999936153239 - sampling time: 6.927234411239624
+Sampling 13 with 63434657380966 - sampling time: 6.846585273742676
+Sampling 14 with 9272977135051 - sampling time: 8.586955547332764
+Sampling 15 with 14488660895273 - sampling time: 8.66606330871582
+Sampling 16 with 73937363908701 - sampling time: 6.173721790313721
+Sampling 17 with 34580423443428 - sampling time: 6.354674577713013
+Sampling 18 with 33402284383238 - sampling time: 8.070070505142212
+Sampling 19 with 22930965562759 - sampling time: 7.006624221801758
+--- total time: 143.77284717559814 seconds ---
+Output samples created on:  /home/jeho-lab/git/t-wise/Data/Samples/Memory/Financial_2018_05_09_20.samples
+	Command being timed: "python3 ./Kclause_Smarch/Smarch/smarch.py -o /home/jeho-lab/git/t-wise/Data/Samples/Memory /home/jeho-lab/git/t-wise/Data/Financial_2018_05_09.dimacs 20"
+	User time (seconds): 121.21
+	System time (seconds): 25.32
+	Percent of CPU this job got: 101%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 2:24.46
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 16844
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 21556357
+	Voluntary context switches: 54092
+	Involuntary context switches: 1227
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 2447608
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

@@ -1,0 +1,50 @@
+Input file:  /home/jeho-lab/git/t-wise/Data/Financial_2018_05_09.dimacs
+Number of samples:  40
+Output directory: /home/jeho-lab/git/t-wise/Data/Samples/Time
+Counting - Total configurations: 97451212554676
+Sampling 0 with 24460706714931 - sampling time: 7.7400126457214355
+Sampling 1 with 79012635948121 - sampling time: 7.1122236251831055
+Sampling 2 with 88672286088843 - sampling time: 6.034351110458374
+Sampling 3 with 89775991118828 - sampling time: 5.443095922470093
+Sampling 4 with 63355755068578 - sampling time: 8.232792139053345
+Sampling 5 with 87853722077204 - sampling time: 5.446874141693115
+Sampling 6 with 35296622736591 - sampling time: 7.183969497680664
+Sampling 7 with 36527713988004 - sampling time: 7.6795713901519775
+Sampling 8 with 35315003459369 - sampling time: 7.462693929672241
+Sampling 9 with 64905941745372 - sampling time: 5.999293804168701
+Sampling 10 with 93650033850140 - sampling time: 6.651370048522949
+Sampling 11 with 51305974106774 - sampling time: 6.573616027832031
+Sampling 12 with 39566816680088 - sampling time: 7.5368170738220215
+Sampling 13 with 82034627437377 - sampling time: 5.861073017120361
+Sampling 14 with 92694448100160 - sampling time: 5.82108736038208
+Sampling 15 with 12923996736018 - sampling time: 6.376434564590454
+Sampling 16 with 77895347170052 - sampling time: 6.436448097229004
+Sampling 17 with 57257787190804 - sampling time: 4.822800874710083
+Sampling 18 with 58461577507536 - sampling time: 6.901023626327515
+Sampling 19 with 39092828946362 - sampling time: 6.370311975479126
+Sampling 20 with 19837742503012 - sampling time: 8.659376859664917
+Sampling 21 with 8036245561863 - sampling time: 7.488460063934326
+Sampling 22 with 6853129374641 - sampling time: 9.148685216903687
+Sampling 23 with 16589525916298 - sampling time: 6.923030138015747
+Sampling 24 with 45698558740639 - sampling time: 7.490840196609497
+Sampling 25 with 27604615713083 - sampling time: 9.332144498825073
+Sampling 26 with 41066830783274 - sampling time: 7.990535497665405
+Sampling 27 with 78042142015145 - sampling time: 7.410940170288086
+Sampling 28 with 41593893724008 - sampling time: 6.40844202041626
+Sampling 29 with 82642871919963 - sampling time: 6.391436338424683
+Sampling 30 with 5778510963425 - sampling time: 6.421403408050537
+Sampling 31 with 55215219880457 - sampling time: 7.037232398986816
+Sampling 32 with 76840645892 - sampling time: 7.491528034210205
+Sampling 33 with 48368060445654 - sampling time: 7.002168416976929
+Sampling 34 with 48198630007279 - sampling time: 6.885382652282715
+Sampling 35 with 44804916941359 - sampling time: 6.404470682144165
+Sampling 36 with 48067015192642 - sampling time: 6.89014458656311
+Sampling 37 with 14254952748002 - sampling time: 6.967508554458618
+Sampling 38 with 52245600670935 - sampling time: 8.02761721611023
+Sampling 39 with 67980411880289 - sampling time: 5.867722272872925
+--- total time: 277.9257936477661 seconds ---
+Output samples created on:  /home/jeho-lab/git/t-wise/Data/Samples/Time/Financial_2018_05_09_40.samples
+
+real	4m38.618s
+user	3m49.107s
+sys	0m53.411s

@@ -1,0 +1,69 @@
+Input file:  /home/jeho-lab/git/t-wise/Data/Financial_2018_05_09.dimacs
+Number of samples:  40
+Output directory: /home/jeho-lab/git/t-wise/Data/Samples/Memory
+Counting - Total configurations: 97451212554676
+Sampling 0 with 48012710645567 - sampling time: 7.077303647994995
+Sampling 1 with 91752889934439 - sampling time: 8.009727239608765
+Sampling 2 with 19370769346648 - sampling time: 9.13840651512146
+Sampling 3 with 53204174685402 - sampling time: 7.4441587924957275
+Sampling 4 with 86513063180521 - sampling time: 4.716090440750122
+Sampling 5 with 22713480250766 - sampling time: 7.752971172332764
+Sampling 6 with 85249680931 - sampling time: 9.739001512527466
+Sampling 7 with 4220939418785 - sampling time: 9.593930959701538
+Sampling 8 with 85798531003409 - sampling time: 5.62145209312439
+Sampling 9 with 42326274439544 - sampling time: 7.344998121261597
+Sampling 10 with 55472216842326 - sampling time: 6.234375
+Sampling 11 with 54070510844688 - sampling time: 6.499925851821899
+Sampling 12 with 54272302542663 - sampling time: 6.889500141143799
+Sampling 13 with 44290403938987 - sampling time: 7.33370566368103
+Sampling 14 with 69642793806632 - sampling time: 5.0398640632629395
+Sampling 15 with 30841295044994 - sampling time: 7.534900188446045
+Sampling 16 with 36607583027510 - sampling time: 9.032515525817871
+Sampling 17 with 41427619138653 - sampling time: 6.738441467285156
+Sampling 18 with 63729683216373 - sampling time: 6.219733715057373
+Sampling 19 with 85611425048601 - sampling time: 7.280864238739014
+Sampling 20 with 48083934266119 - sampling time: 5.125221252441406
+Sampling 21 with 63723387905422 - sampling time: 7.5804362297058105
+Sampling 22 with 68799760329000 - sampling time: 7.8592517375946045
+Sampling 23 with 14239928796546 - sampling time: 7.26529598236084
+Sampling 24 with 29911083102926 - sampling time: 8.458746194839478
+Sampling 25 with 24070502369893 - sampling time: 7.369783878326416
+Sampling 26 with 60809538673044 - sampling time: 7.846380949020386
+Sampling 27 with 73249935720379 - sampling time: 5.739852428436279
+Sampling 28 with 48351290767979 - sampling time: 7.3019044399261475
+Sampling 29 with 82980789601690 - sampling time: 5.84512186050415
+Sampling 30 with 53625777398833 - sampling time: 6.73184871673584
+Sampling 31 with 30321834694668 - sampling time: 7.72342586517334
+Sampling 32 with 89012988628072 - sampling time: 8.024142980575562
+Sampling 33 with 74705252730210 - sampling time: 7.500285863876343
+Sampling 34 with 73450106733564 - sampling time: 5.21566104888916
+Sampling 35 with 52593413972756 - sampling time: 7.4099273681640625
+Sampling 36 with 11671660928303 - sampling time: 9.199580192565918
+Sampling 37 with 86028687311018 - sampling time: 8.068120002746582
+Sampling 38 with 70565200234012 - sampling time: 5.326614141464233
+Sampling 39 with 60817291900364 - sampling time: 7.498585224151611
+--- total time: 288.3330674171448 seconds ---
+Output samples created on:  /home/jeho-lab/git/t-wise/Data/Samples/Memory/Financial_2018_05_09_40.samples
+	Command being timed: "python3 ./Kclause_Smarch/Smarch/smarch.py -o /home/jeho-lab/git/t-wise/Data/Samples/Memory /home/jeho-lab/git/t-wise/Data/Financial_2018_05_09.dimacs 40"
+	User time (seconds): 242.52
+	System time (seconds): 50.49
+	Percent of CPU this job got: 101%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 4:49.05
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 16968
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 42677394
+	Voluntary context switches: 107195
+	Involuntary context switches: 2262
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 4842296
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

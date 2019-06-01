@@ -1,0 +1,39 @@
+Input file:  /home/jeho-lab/git/t-wise/Data/Financial_2018_05_09.dimacs
+Number of samples:  10
+Output directory: /home/jeho-lab/git/t-wise/Data/Samples/Memory
+Counting - Total configurations: 97451212554676
+Sampling 0 with 65273002814191 - sampling time: 7.543320655822754
+Sampling 1 with 34436139748829 - sampling time: 9.622083902359009
+Sampling 2 with 67721393292273 - sampling time: 8.184131622314453
+Sampling 3 with 64967254465252 - sampling time: 8.261913299560547
+Sampling 4 with 79752392696141 - sampling time: 8.916607141494751
+Sampling 5 with 90851890554900 - sampling time: 6.5277392864227295
+Sampling 6 with 70373002093256 - sampling time: 7.937891006469727
+Sampling 7 with 244975306649 - sampling time: 7.996299743652344
+Sampling 8 with 77068758000707 - sampling time: 6.184890508651733
+Sampling 9 with 32733881750735 - sampling time: 10.407424926757812
+--- total time: 81.5827124118805 seconds ---
+Output samples created on:  /home/jeho-lab/git/t-wise/Data/Samples/Memory/Financial_2018_05_09_10.samples
+	Command being timed: "python3 ./Kclause_Smarch/Smarch/smarch.py -o /home/jeho-lab/git/t-wise/Data/Samples/Memory /home/jeho-lab/git/t-wise/Data/Financial_2018_05_09.dimacs 10"
+	User time (seconds): 69.22
+	System time (seconds): 14.21
+	Percent of CPU this job got: 101%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:22.38
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 16860
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 11862919
+	Voluntary context switches: 29794
+	Involuntary context switches: 2689
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 1345752
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

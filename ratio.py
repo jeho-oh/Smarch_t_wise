@@ -29,35 +29,13 @@ def check_combratio(dimacs_, combfile_, outfile_):
     out.close()
 
 
-def check_combprob(dimacs_, ratiofile_, n_, outfile_):
-    total = count(dimacs_, [])
-
-    out = open(outfile_, "w")
-    with open(ratiofile_, "r") as f:
-        i = 0
-
-        for line in f:
-            r = float(line)
-
-            p = 1 - (1 - r)**n_
-
-            out.write(str(p) + "\n")
-
-            i += 1
-            print(str(i) + ": " + str(r))
-
-    out.close()
-
-
 t = 1
-n = 5
 target = "Financial_2018_05_09"
 
 srcdir = os.path.dirname(os.path.abspath(__file__))
 dimacs = srcdir + "/Data/" + target + ".dimacs"
 combfile = srcdir + "/Data/" + target + "_" + str(t) + ".comb"
 ratiofile = srcdir + "/Data/" + target + "_" + str(t) + ".ratio"
-probfile = srcdir + "/Data/" + target + "_" + str(t) + "_" + str(n) + ".ratio"
 
-# check_combratio(dimacs, combfile, ratiofile)
-check_combprob(dimacs, ratiofile, n, probfile)
+
+check_combratio(dimacs, combfile, ratiofile)

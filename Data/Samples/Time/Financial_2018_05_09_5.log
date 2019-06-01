@@ -1,0 +1,15 @@
+Input file:  /home/jeho-lab/git/t-wise/Data/Financial_2018_05_09.dimacs
+Number of samples:  5
+Output directory: /home/jeho-lab/git/t-wise/Data/Samples/Time
+Counting - Total configurations: 97451212554676
+Sampling 0 with 81952473274888 - sampling time: 5.5455322265625
+Sampling 1 with 89624074251653 - sampling time: 7.259146213531494
+Sampling 2 with 4984832998299 - sampling time: 8.911863565444946
+Sampling 3 with 48498209584577 - sampling time: 6.745167016983032
+Sampling 4 with 94519545452515 - sampling time: 6.202357053756714
+--- total time: 34.664284467697144 seconds ---
+Output samples created on:  /home/jeho-lab/git/t-wise/Data/Samples/Time/Financial_2018_05_09_5.samples
+
+real	0m35.354s
+user	0m29.324s
+sys	0m6.518s

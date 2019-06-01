@@ -49,7 +49,7 @@ def get_combinations(dimacs_, t_, outfile_):
 
 
 t = 1
-target = "LLVM"#"Financial_2018_05_09"
+target = "Financial_2018_05_09"
 
 srcdir = os.path.dirname(os.path.abspath(__file__))
 dimacs = srcdir + "/Data/" + target + ".dimacs"

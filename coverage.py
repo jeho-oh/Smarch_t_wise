@@ -23,18 +23,20 @@ def check_coverage(samplefile_, combfile_):
                     exist += 1
                     break
             total += 1
-            print(total)
 
     print(str(exist/total))
 
 
 t = 1
-n = 3
-target = "LLVM" #"Financial_2018_05_09"
+target = "Financial_2018_05_09"
 
 srcdir = os.path.dirname(os.path.abspath(__file__))
 dimacs = srcdir + "/Data/" + target + ".dimacs"
 combfile = srcdir + "/Data/" + target + "_" + str(t) + ".comb"
-samplefile = srcdir + "/Data/Samples/" + target + "_" + str(n) + ".samples"
 
-check_coverage(samplefile, combfile)
+nlist = {5, 10, 20, 30, 40, 50, 100, 200, 300, 400, 500, 1000, 1518}
+
+for i in nlist:
+    samplefile = srcdir + "/Data/Samples/Time/" + target + "_" + str(i) + ".samples"
+    print(str(i), end=",")
+    check_coverage(samplefile, combfile)

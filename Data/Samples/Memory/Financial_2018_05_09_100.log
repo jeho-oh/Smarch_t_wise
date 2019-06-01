@@ -1,0 +1,129 @@
+Input file:  /home/jeho-lab/git/t-wise/Data/Financial_2018_05_09.dimacs
+Number of samples:  100
+Output directory: /home/jeho-lab/git/t-wise/Data/Samples/Memory
+Counting - Total configurations: 97451212554676
+Sampling 0 with 48658526153915 - sampling time: 8.95220160484314
+Sampling 1 with 45278706362381 - sampling time: 7.970967054367065
+Sampling 2 with 2515755433011 - sampling time: 8.715014457702637
+Sampling 3 with 80382661778699 - sampling time: 7.961857080459595
+Sampling 4 with 33637452812698 - sampling time: 8.763298034667969
+Sampling 5 with 47389857678365 - sampling time: 9.353459596633911
+Sampling 6 with 59009654885030 - sampling time: 8.893996715545654
+Sampling 7 with 71672661252731 - sampling time: 9.442252159118652
+Sampling 8 with 13327110343430 - sampling time: 9.466419219970703
+Sampling 9 with 67143927387198 - sampling time: 8.027561902999878
+Sampling 10 with 76455545636744 - sampling time: 10.168436527252197
+Sampling 11 with 65196757145683 - sampling time: 7.9455060958862305
+Sampling 12 with 96322530344416 - sampling time: 8.862714767456055
+Sampling 13 with 11492351047969 - sampling time: 10.253412961959839
+Sampling 14 with 68359070527804 - sampling time: 8.071873426437378
+Sampling 15 with 16620218523764 - sampling time: 9.021327495574951
+Sampling 16 with 33212978803734 - sampling time: 8.045514822006226
+Sampling 17 with 67851257665449 - sampling time: 6.853809833526611
+Sampling 18 with 62965935295413 - sampling time: 7.43290638923645
+Sampling 19 with 17756066123266 - sampling time: 8.833682298660278
+Sampling 20 with 53077659060737 - sampling time: 7.549940347671509
+Sampling 21 with 90652093503587 - sampling time: 9.91846251487732
+Sampling 22 with 91458532848000 - sampling time: 8.85293698310852
+Sampling 23 with 21734519886601 - sampling time: 10.697417259216309
+Sampling 24 with 37681606189218 - sampling time: 8.238019943237305
+Sampling 25 with 75780709961245 - sampling time: 8.726392269134521
+Sampling 26 with 92572815043451 - sampling time: 6.866132497787476
+Sampling 27 with 91770441291930 - sampling time: 8.671001672744751
+Sampling 28 with 35822406474083 - sampling time: 10.077800750732422
+Sampling 29 with 58439826544928 - sampling time: 6.2529542446136475
+Sampling 30 with 85777680584767 - sampling time: 7.47261381149292
+Sampling 31 with 82298599908986 - sampling time: 7.595529556274414
+Sampling 32 with 94680643998770 - sampling time: 8.062785863876343
+Sampling 33 with 60656630144859 - sampling time: 7.0756635665893555
+Sampling 34 with 74902341007391 - sampling time: 5.718932628631592
+Sampling 35 with 28308937802258 - sampling time: 10.77216649055481
+Sampling 36 with 93050519772586 - sampling time: 7.5105061531066895
+Sampling 37 with 82188125271694 - sampling time: 5.062511205673218
+Sampling 38 with 50541314763385 - sampling time: 8.201541900634766
+Sampling 39 with 16749255171585 - sampling time: 7.540653228759766
+Sampling 40 with 85439761963416 - sampling time: 7.03948450088501
+Sampling 41 with 34286217852085 - sampling time: 7.459981679916382
+Sampling 42 with 64214747107926 - sampling time: 8.215465784072876
+Sampling 43 with 20284657801905 - sampling time: 9.339158058166504
+Sampling 44 with 19089160733105 - sampling time: 8.834259033203125
+Sampling 45 with 40746911587744 - sampling time: 8.238095045089722
+Sampling 46 with 53640780650614 - sampling time: 9.372027397155762
+Sampling 47 with 54866437076583 - sampling time: 9.975105047225952
+Sampling 48 with 70873296729489 - sampling time: 5.658924341201782
+Sampling 49 with 31369887146982 - sampling time: 9.598765850067139
+Sampling 50 with 15360136530358 - sampling time: 10.630038976669312
+Sampling 51 with 7412990230781 - sampling time: 9.839056491851807
+Sampling 52 with 74423517931697 - sampling time: 9.4995276927948
+Sampling 53 with 54707640006860 - sampling time: 9.62359356880188
+Sampling 54 with 46497742314047 - sampling time: 7.561462879180908
+Sampling 55 with 17853281690325 - sampling time: 7.501966238021851
+Sampling 56 with 88160104241367 - sampling time: 8.797095537185669
+Sampling 57 with 32437319118261 - sampling time: 11.056206226348877
+Sampling 58 with 18017380765634 - sampling time: 7.44310736656189
+Sampling 59 with 74398841289686 - sampling time: 8.822563648223877
+Sampling 60 with 40087924727186 - sampling time: 9.709330320358276
+Sampling 61 with 85842111150406 - sampling time: 8.098166227340698
+Sampling 62 with 84767088311714 - sampling time: 8.204627275466919
+Sampling 63 with 47440164532415 - sampling time: 8.180685043334961
+Sampling 64 with 68283205644972 - sampling time: 7.663745164871216
+Sampling 65 with 70572617993474 - sampling time: 6.891807556152344
+Sampling 66 with 47347458968617 - sampling time: 10.194589376449585
+Sampling 67 with 10624614115460 - sampling time: 10.809854745864868
+Sampling 68 with 84416940078635 - sampling time: 5.598684549331665
+Sampling 69 with 16900218150689 - sampling time: 7.711483001708984
+Sampling 70 with 38073277263129 - sampling time: 7.5448994636535645
+Sampling 71 with 15796149032771 - sampling time: 10.320964097976685
+Sampling 72 with 26512606134312 - sampling time: 11.501029968261719
+Sampling 73 with 23414506345536 - sampling time: 8.824549913406372
+Sampling 74 with 75566256768701 - sampling time: 8.124696731567383
+Sampling 75 with 95238728032898 - sampling time: 8.739288330078125
+Sampling 76 with 22237948785993 - sampling time: 8.753557443618774
+Sampling 77 with 44298571779535 - sampling time: 7.596302509307861
+Sampling 78 with 60799094251396 - sampling time: 8.194407224655151
+Sampling 79 with 84262357672395 - sampling time: 6.256330251693726
+Sampling 80 with 84996619694424 - sampling time: 7.755408763885498
+Sampling 81 with 68913348393722 - sampling time: 6.244317293167114
+Sampling 82 with 59279506445093 - sampling time: 8.17800259590149
+Sampling 83 with 78044828056108 - sampling time: 6.89530611038208
+Sampling 84 with 47095458737852 - sampling time: 8.115326642990112
+Sampling 85 with 87147334245791 - sampling time: 8.14625358581543
+Sampling 86 with 91830132741732 - sampling time: 8.706721544265747
+Sampling 87 with 96571870648162 - sampling time: 7.499577760696411
+Sampling 88 with 97086855187004 - sampling time: 6.842333555221558
+Sampling 89 with 20721287269441 - sampling time: 8.667285680770874
+Sampling 90 with 17459816013147 - sampling time: 8.257349967956543
+Sampling 91 with 11954587584033 - sampling time: 11.000842809677124
+Sampling 92 with 33484857298573 - sampling time: 8.220038652420044
+Sampling 93 with 85959997817445 - sampling time: 7.559423208236694
+Sampling 94 with 39761358136112 - sampling time: 9.436404705047607
+Sampling 95 with 88369458491001 - sampling time: 8.825459718704224
+Sampling 96 with 14291303752538 - sampling time: 8.790190696716309
+Sampling 97 with 97116741754882 - sampling time: 6.843137264251709
+Sampling 98 with 23951774296612 - sampling time: 8.282636404037476
+Sampling 99 with 36492982020911 - sampling time: 8.127405405044556
+--- total time: 839.720874786377 seconds ---
+Output samples created on:  /home/jeho-lab/git/t-wise/Data/Samples/Memory/Financial_2018_05_09_100.samples
+	Command being timed: "python3 ./Kclause_Smarch/Smarch/smarch.py -o /home/jeho-lab/git/t-wise/Data/Samples/Memory /home/jeho-lab/git/t-wise/Data/Financial_2018_05_09.dimacs 100"
+	User time (seconds): 710.66
+	System time (seconds): 140.66
+	Percent of CPU this job got: 101%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 14:00.53
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 16884
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 110847989
+	Voluntary context switches: 277568
+	Involuntary context switches: 12986
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 12558544
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

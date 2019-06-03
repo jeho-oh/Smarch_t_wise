@@ -1,0 +1,5 @@
+Operating System: Ubuntu 16.04 LTS
+RAM: 31.3 GiB
+CPU: Intel® Core™ i7-6700 CPU @ 3.40GHz
+Sampling Tool: Smarch ()
+

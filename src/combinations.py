@@ -1,3 +1,10 @@
+"""
+Generate valid t-wise combinations for coverage analysis
+Code for paper "t-wise Coverage by Uniform Sampling"
+Author: Jeho Oh
+"""
+
+
 from itertools import combinations
 import os
 import pycosat
@@ -6,24 +13,21 @@ from Kclause_Smarch.Smarch.smarch import read_dimacs
 
 
 def get_combinations(dimacs_, t_, outfile_):
-    comb = list()
-
     # get list of features
     _features, _clauses, _vcount = read_dimacs(dimacs_)
 
-    vars = set()
+    vlist = set()
     for i in range(1, len(_features)):
-        vars.add(i)
-        vars.add(-1 * i)
+        vlist.add(i)
+        vlist.add(-1 * i)
 
     # get t wise combinations
-    raw = combinations(vars, t_)
+    raw = combinations(vlist, t_)
 
     f = open(outfile_, "w")
 
     # filter out combinations that are invalid
     j = 0
-
     for c in raw:
         assigned = list(map(int, c))
         aclause = [assigned[i:i + 1] for i in range(0, len(assigned))]
@@ -37,10 +41,8 @@ def get_combinations(dimacs_, t_, outfile_):
                     f.write(",")
             f.write("\n")
             j += 1
-            #comb.append(c)
-        #else:
-            #print(c)
 
+        # print progress
         print(str(j))
 
     f.close()
@@ -48,14 +50,21 @@ def get_combinations(dimacs_, t_, outfile_):
     return
 
 
-t = 1
-target = "Financial_2018_05_09"
+# run script
+if __name__ == "__main__":
+    target = "Financial_2018_05_09"
 
-srcdir = os.path.dirname(os.path.abspath(__file__))
-rootdir = os.path.abspath(os.path.join(srcdir, os.pardir))
+    srcdir = os.path.dirname(os.path.abspath(__file__))
+    rootdir = os.path.abspath(os.path.join(srcdir, os.pardir))
 
-dimacs = rootdir + "/" + target + "/" + target + ".dimacs"
-combfile = rootdir + "/" + target + "/" + target + "_" + str(t) + ".comb"
+    dimacs = rootdir + "/" + target + "/Data/" + target + ".dimacs"
 
-get_combinations(dimacs, t, combfile)
+    # generate 1-wise combinations
+    print("Generating 1-wise combinations")
+    combfile = rootdir + "/" + target + "/Data/" + target + "_" + str(1) + ".comb"
+    get_combinations(dimacs, 1, combfile)
 
+    # generate 2-wise combinations
+    print("Generating 1-wise combinations")
+    combfile = rootdir + "/" + target + "/Data/" + target + "_" + str(2) + ".comb"
+    get_combinations(dimacs, 2, combfile)

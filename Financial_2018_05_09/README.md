@@ -2,7 +2,7 @@
 
 This folder contains data and report for SPLC Challenge case:
 
-* Data: Contains dimacs file, combinations for t-wise coverage testing (.comb), and configuration ratios of combinations (.ratio).
+* Data: Contains dimacs file, valid t-wise combinations (.comb), and configuration ratios of combinations (.ratio).
 * Samples: Contains samples created from sample time measurement and max memory usage measurement.
 * Experience_Report.pdf: Submitted paper for the challenge solution
 * Sample_Statistics.csv: Summary of measurement data

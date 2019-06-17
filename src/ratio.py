@@ -6,8 +6,13 @@ Author: Jeho Oh
 
 
 import os
+from sys import path
 
-from Kclause_Smarch.Smarch.smarch import count
+srcdir = os.path.dirname(os.path.abspath(__file__))
+rootdir = os.path.abspath(os.path.join(srcdir, os.pardir))
+path.append(rootdir + "/Kclause_Smarch/Smarch")
+
+from smarch import count
 
 
 def check_combratio(dimacs_, combfile_, outfile_):
@@ -46,9 +51,6 @@ def check_combratio(dimacs_, combfile_, outfile_):
 if __name__ == "__main__":
     t = 1  # modify (t=2 will take quite a while)
     target = "Financial_2018_05_09"
-
-    srcdir = os.path.dirname(os.path.abspath(__file__))
-    rootdir = os.path.abspath(os.path.join(srcdir, os.pardir))
 
     dimacs = rootdir + "/" + target + "/Data/" + target + ".dimacs"
     combfile = rootdir + "/" + target + "/Data/" + target + "_" + str(t) + ".comb"

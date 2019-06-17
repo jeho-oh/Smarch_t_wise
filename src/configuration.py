@@ -6,8 +6,13 @@ Author: Jeho Oh
 
 
 import os
+from sys import path
 
-from Kclause_Smarch.Smarch.smarch import read_dimacs
+srcdir = os.path.dirname(os.path.abspath(__file__))
+rootdir = os.path.abspath(os.path.join(srcdir, os.pardir))
+path.append(rootdir + "/Kclause_Smarch/Smarch")
+
+from smarch import read_dimacs
 
 
 def gen_config(dimacs_, samplefile_, n_):

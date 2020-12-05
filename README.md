@@ -1,3 +1,6 @@
+# Important Note
+This repository for Smarch deprecated. Please go to https://github.com/jeho-oh/Smarch for the latest version.
+
 # Smarch_t_wise
 
 This is the repository for SPLC 2019 challenge solution paper: "t-wise Coverage by Uniform Sampling"
